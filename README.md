@@ -16,7 +16,7 @@ This is a broken learning model:
 
 ## Our Solution
 
-AlgoLeao AI is a **personal AI advisor** that makes interview prep adaptive, interactive, and effective.
+AlgoLeap AI is a **personal AI advisor** that makes interview prep adaptive, interactive, and effective.
 
 Instead of just checking for correctness, our platform:
 1.  **Provides Actionable Hints:** When your code fails, our AI doesn't just fail you. It analyzes your code and gives you a **direct, actionable hint**, just like a senior developer would (e.g., "**Hint:** Your solution is timing out. Your nested loop is $O(n^2)$. Try using a **Hash Map** to check for duplicates in a single pass.").
