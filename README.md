@@ -1,4 +1,4 @@
-⭐click here for demo[here](https://youtu.be/59QD0ccXBAg?si=d1PRrHYaeBWltY4o)
+⭐[click here for demo](https://youtu.be/59QD0ccXBAg?si=d1PRrHYaeBWltY4o)
 
 # AlgoLeap AI 
 
